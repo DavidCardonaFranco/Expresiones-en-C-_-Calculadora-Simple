@@ -1,0 +1,14 @@
+D:\AAAAAAAAAAA\Semestre 5\Paradigmas del Lenguaje\Calculadora simple\Calculadora simple\obj\Debug\netcoreapp3.1\Calculadora simple.csproj.AssemblyReference.cache
+D:\AAAAAAAAAAA\Semestre 5\Paradigmas del Lenguaje\Calculadora simple\Calculadora simple\obj\Debug\netcoreapp3.1\Calculadora simple.GeneratedMSBuildEditorConfig.editorconfig
+D:\AAAAAAAAAAA\Semestre 5\Paradigmas del Lenguaje\Calculadora simple\Calculadora simple\obj\Debug\netcoreapp3.1\Calculadora simple.AssemblyInfoInputs.cache
+D:\AAAAAAAAAAA\Semestre 5\Paradigmas del Lenguaje\Calculadora simple\Calculadora simple\obj\Debug\netcoreapp3.1\Calculadora simple.AssemblyInfo.cs
+D:\AAAAAAAAAAA\Semestre 5\Paradigmas del Lenguaje\Calculadora simple\Calculadora simple\obj\Debug\netcoreapp3.1\Calculadora simple.csproj.CoreCompileInputs.cache
+D:\AAAAAAAAAAA\Semestre 5\Paradigmas del Lenguaje\Calculadora simple\Calculadora simple\bin\Debug\netcoreapp3.1\Calculadora simple.exe
+D:\AAAAAAAAAAA\Semestre 5\Paradigmas del Lenguaje\Calculadora simple\Calculadora simple\bin\Debug\netcoreapp3.1\Calculadora simple.deps.json
+D:\AAAAAAAAAAA\Semestre 5\Paradigmas del Lenguaje\Calculadora simple\Calculadora simple\bin\Debug\netcoreapp3.1\Calculadora simple.runtimeconfig.json
+D:\AAAAAAAAAAA\Semestre 5\Paradigmas del Lenguaje\Calculadora simple\Calculadora simple\bin\Debug\netcoreapp3.1\Calculadora simple.runtimeconfig.dev.json
+D:\AAAAAAAAAAA\Semestre 5\Paradigmas del Lenguaje\Calculadora simple\Calculadora simple\bin\Debug\netcoreapp3.1\Calculadora simple.dll
+D:\AAAAAAAAAAA\Semestre 5\Paradigmas del Lenguaje\Calculadora simple\Calculadora simple\bin\Debug\netcoreapp3.1\Calculadora simple.pdb
+D:\AAAAAAAAAAA\Semestre 5\Paradigmas del Lenguaje\Calculadora simple\Calculadora simple\obj\Debug\netcoreapp3.1\Calculadora simple.dll
+D:\AAAAAAAAAAA\Semestre 5\Paradigmas del Lenguaje\Calculadora simple\Calculadora simple\obj\Debug\netcoreapp3.1\Calculadora simple.pdb
+D:\AAAAAAAAAAA\Semestre 5\Paradigmas del Lenguaje\Calculadora simple\Calculadora simple\obj\Debug\netcoreapp3.1\Calculadora simple.genruntimeconfig.cache
